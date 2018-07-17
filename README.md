@@ -1,4 +1,3 @@
-# Exotic_call
 ## DONE ##
 MC
 - price
