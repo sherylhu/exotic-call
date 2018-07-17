@@ -2,6 +2,6 @@
 ## DONE
 MC
 ## To Do
-Numerical Integration
-PDF
-Closed form??
+-Numerical Integration
+-PDF
+-Closed form??
