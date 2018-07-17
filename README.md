@@ -12,7 +12,7 @@ Some reduction variance methods have been implemented:
 
 
 ## To Do ##
-Other Pricing Method
+Other Pricing Methods
  - Numerical Integration
  - PDF
  - Closed form
